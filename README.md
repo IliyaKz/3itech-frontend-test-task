@@ -1,1 +1,5 @@
-# 3itech-frontend-test-task
+Решение тестового задания на позицию Frontend-разработчик React (Junior+/Middle).
+
+В файле style.scss содержится дополненная согласно заданию 1 scss-разметка
+В файле index.js содержится функция decode для задания 2
+
